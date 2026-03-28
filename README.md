@@ -1,2 +1,2 @@
-# -rea-del-circulo
+# -área-del-circulo
 área del circulo
